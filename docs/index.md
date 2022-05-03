@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Harshit
 
 You can use the [editor on GitHub](https://github.com/Vipinofficial/More-toon/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
